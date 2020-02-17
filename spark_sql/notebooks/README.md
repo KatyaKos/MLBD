@@ -32,3 +32,7 @@ Now you can start Jupyter.
 ### Known Issues
 
 * After these steps you can run your spark applications only in local mode. You can follow this [tutorial](https://blog.clairvoyantsoft.com/installing-spark2-in-cloudera-cluster-through-docker-c9818ab59671) if you would like to be able to run your applications in cluster mode.
+
+## Links
+
+* Pyspark Dataframe functions (https://spark.apache.org/docs/latest/api/python/pyspark.sql.html#module-pyspark.sql.functions)
