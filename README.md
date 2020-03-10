@@ -28,7 +28,8 @@ Materials for "Machine Learning on Big Data" course
 >  <ins><i>Keywords:</i></ins> One-hot encoding, Cross features, Factorization Machines (FM, FFM), Neural Networks (Deep Crossing, Deep & Cross, DeepFM)
 #### 6. [Gradient Boosting Decision Tree](/gradient_boosting)
 >  <ins><i>Keywords:</i></ins> Categorical features (Naive Bayes, Mean Target Encoding), PLANET, XGBoost, CatBoost, SHAP values
-#### 7. Hyperparameters Optimization
+#### 7. [Hyperparameters Optimization](/hyperparameters_optimization)
+>  <ins><i>Keywords:</i></ins> Grid Search, Random Search (low effective dimensionality), Bayesian Optimization (Gaussian Process, surrogate, acquisition), Predictive Termination, Hyperband (successive halving), Multi-task Bayesian Optimization
 #### 8. Word2Vec, k-Nearest Neighbors
 #### 9. Collaborative Filtering (ALS)
 #### 10. Latent Dirichlet Allocation
@@ -68,9 +69,16 @@ Materials for "Machine Learning on Big Data" course
 
 ## Домашние задания
 
+### Контесты
+
 1. [Kaggle: CTR Prediction](https://www.kaggle.com/c/mlbd-20-ctr-prediction-1)
 2. TBD
-3. TBD
+
+#### Общая информация
+
+1. Для решения контестов можно использовать любые методы/приемы/фрэймворки, которые обсуждались на лекциях.
+2. После окончания контеста нужно будет написать отчет об итоговом решении.
+
 
 ## Docker
 
